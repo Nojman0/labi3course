@@ -1,0 +1,2 @@
+c:\users\fasss.desktop-enjev1u\source\repos\itk12\itk12\obj\Debug\itk12.csprojAssemblyReference.cache
+c:\users\fasss.desktop-enjev1u\source\repos\itk12\itk12\obj\Debug\itk12.csproj.CoreCompileInputs.cache

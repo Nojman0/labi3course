@@ -1,0 +1,7 @@
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\Virginer\Virginer\bin\Debug\Virginer.exe.config
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\Virginer\Virginer\bin\Debug\Virginer.exe
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\Virginer\Virginer\bin\Debug\Virginer.pdb
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\Virginer\Virginer\obj\Debug\Virginer.csproj.CoreCompileInputs.cache
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\Virginer\Virginer\obj\Debug\Virginer.exe
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\Virginer\Virginer\obj\Debug\Virginer.pdb
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\Virginer\Virginer\obj\Debug\Virginer.csprojAssemblyReference.cache

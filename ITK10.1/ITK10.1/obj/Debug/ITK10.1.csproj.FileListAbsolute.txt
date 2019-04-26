@@ -1,0 +1,7 @@
+C:\Users\fasss\source\repos\ITK10.1\ITK10.1\bin\Debug\ITK10.1.exe.config
+C:\Users\fasss\source\repos\ITK10.1\ITK10.1\bin\Debug\ITK10.1.exe
+C:\Users\fasss\source\repos\ITK10.1\ITK10.1\bin\Debug\ITK10.1.pdb
+C:\Users\fasss\source\repos\ITK10.1\ITK10.1\obj\Debug\ITK10.1.csprojAssemblyReference.cache
+C:\Users\fasss\source\repos\ITK10.1\ITK10.1\obj\Debug\ITK10.1.csproj.CoreCompileInputs.cache
+C:\Users\fasss\source\repos\ITK10.1\ITK10.1\obj\Debug\ITK10.1.exe
+C:\Users\fasss\source\repos\ITK10.1\ITK10.1\obj\Debug\ITK10.1.pdb

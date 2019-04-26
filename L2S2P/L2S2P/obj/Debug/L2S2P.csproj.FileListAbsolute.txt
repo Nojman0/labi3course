@@ -1,0 +1,7 @@
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\L2S2P\L2S2P\obj\Debug\L2S2P.csprojAssemblyReference.cache
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\L2S2P\L2S2P\obj\Debug\L2S2P.csproj.CoreCompileInputs.cache
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\L2S2P\L2S2P\bin\Debug\L2S2P.exe.config
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\L2S2P\L2S2P\bin\Debug\L2S2P.exe
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\L2S2P\L2S2P\bin\Debug\L2S2P.pdb
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\L2S2P\L2S2P\obj\Debug\L2S2P.exe
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\L2S2P\L2S2P\obj\Debug\L2S2P.pdb

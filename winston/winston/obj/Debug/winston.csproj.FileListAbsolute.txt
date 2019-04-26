@@ -1,0 +1,7 @@
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\winston\winston\bin\Debug\winston.exe.config
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\winston\winston\bin\Debug\winston.exe
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\winston\winston\bin\Debug\winston.pdb
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\winston\winston\obj\Debug\winston.csprojAssemblyReference.cache
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\winston\winston\obj\Debug\winston.csproj.CoreCompileInputs.cache
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\winston\winston\obj\Debug\winston.exe
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\winston\winston\obj\Debug\winston.pdb

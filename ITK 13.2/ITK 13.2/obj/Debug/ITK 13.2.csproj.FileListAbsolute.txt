@@ -1,0 +1,7 @@
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\ITK 13.2\ITK 13.2\bin\Debug\ITK 13.2.exe.config
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\ITK 13.2\ITK 13.2\bin\Debug\ITK 13.2.exe
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\ITK 13.2\ITK 13.2\bin\Debug\ITK 13.2.pdb
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\ITK 13.2\ITK 13.2\obj\Debug\ITK 13.2.csproj.CoreCompileInputs.cache
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\ITK 13.2\ITK 13.2\obj\Debug\ITK 13.2.exe
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\ITK 13.2\ITK 13.2\obj\Debug\ITK 13.2.pdb
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\ITK 13.2\ITK 13.2\obj\Debug\ITK 13.2.csprojAssemblyReference.cache

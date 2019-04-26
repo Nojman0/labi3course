@@ -1,0 +1,7 @@
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\moya12itk\moya12itk\bin\Debug\moya12itk.exe.config
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\moya12itk\moya12itk\bin\Debug\moya12itk.exe
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\moya12itk\moya12itk\bin\Debug\moya12itk.pdb
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\moya12itk\moya12itk\obj\Debug\ITK10.4.csprojAssemblyReference.cache
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\moya12itk\moya12itk\obj\Debug\ITK10.4.csproj.CoreCompileInputs.cache
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\moya12itk\moya12itk\obj\Debug\moya12itk.exe
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\moya12itk\moya12itk\obj\Debug\moya12itk.pdb

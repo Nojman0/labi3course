@@ -1,0 +1,7 @@
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\L1\L1\bin\Debug\L1.exe.config
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\L1\L1\bin\Debug\L1.exe
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\L1\L1\bin\Debug\L1.pdb
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\L1\L1\obj\Debug\L1.csprojAssemblyReference.cache
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\L1\L1\obj\Debug\L1.csproj.CoreCompileInputs.cache
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\L1\L1\obj\Debug\L1.exe
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\L1\L1\obj\Debug\L1.pdb

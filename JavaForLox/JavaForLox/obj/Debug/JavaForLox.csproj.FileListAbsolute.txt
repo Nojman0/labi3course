@@ -1,0 +1,7 @@
+c:\users\fasss.desktop-enjev1u\source\repos\JavaForLox\JavaForLox\bin\Debug\JavaForLox.exe.config
+c:\users\fasss.desktop-enjev1u\source\repos\JavaForLox\JavaForLox\bin\Debug\JavaForLox.exe
+c:\users\fasss.desktop-enjev1u\source\repos\JavaForLox\JavaForLox\bin\Debug\JavaForLox.pdb
+c:\users\fasss.desktop-enjev1u\source\repos\JavaForLox\JavaForLox\obj\Debug\JavaForLox.csprojAssemblyReference.cache
+c:\users\fasss.desktop-enjev1u\source\repos\JavaForLox\JavaForLox\obj\Debug\JavaForLox.csproj.CoreCompileInputs.cache
+c:\users\fasss.desktop-enjev1u\source\repos\JavaForLox\JavaForLox\obj\Debug\JavaForLox.exe
+c:\users\fasss.desktop-enjev1u\source\repos\JavaForLox\JavaForLox\obj\Debug\JavaForLox.pdb

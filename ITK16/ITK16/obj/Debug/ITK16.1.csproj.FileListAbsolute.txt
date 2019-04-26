@@ -1,0 +1,7 @@
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\ITK16\ITK16\obj\Debug\ITK16.1.csprojAssemblyReference.cache
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\ITK16\ITK16\obj\Debug\ITK16.1.csproj.CoreCompileInputs.cache
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\ITK16\ITK16\bin\Debug\ITK16.exe.config
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\ITK16\ITK16\bin\Debug\ITK16.exe
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\ITK16\ITK16\bin\Debug\ITK16.pdb
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\ITK16\ITK16\obj\Debug\ITK16.exe
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\ITK16\ITK16\obj\Debug\ITK16.pdb

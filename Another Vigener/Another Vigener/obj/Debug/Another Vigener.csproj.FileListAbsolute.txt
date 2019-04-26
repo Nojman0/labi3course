@@ -1,0 +1,7 @@
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\Another Vigener\Another Vigener\bin\Debug\Another Vigener.exe.config
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\Another Vigener\Another Vigener\bin\Debug\Another Vigener.exe
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\Another Vigener\Another Vigener\bin\Debug\Another Vigener.pdb
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\Another Vigener\Another Vigener\obj\Debug\Another Vigener.csprojAssemblyReference.cache
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\Another Vigener\Another Vigener\obj\Debug\Another Vigener.csproj.CoreCompileInputs.cache
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\Another Vigener\Another Vigener\obj\Debug\Another Vigener.exe
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\Another Vigener\Another Vigener\obj\Debug\Another Vigener.pdb

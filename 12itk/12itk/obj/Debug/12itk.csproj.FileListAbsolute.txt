@@ -1,0 +1,7 @@
+c:\users\fasss.desktop-enjev1u\source\repos\12itk\12itk\bin\Debug\12itk.exe.config
+c:\users\fasss.desktop-enjev1u\source\repos\12itk\12itk\bin\Debug\12itk.exe
+c:\users\fasss.desktop-enjev1u\source\repos\12itk\12itk\bin\Debug\12itk.pdb
+c:\users\fasss.desktop-enjev1u\source\repos\12itk\12itk\obj\Debug\12itk.csproj.CoreCompileInputs.cache
+c:\users\fasss.desktop-enjev1u\source\repos\12itk\12itk\obj\Debug\12itk.exe
+c:\users\fasss.desktop-enjev1u\source\repos\12itk\12itk\obj\Debug\12itk.pdb
+C:\Users\fasss.DESKTOP-ENJEV1U\source\repos\12itk\12itk\obj\Debug\12itk.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfTrain xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Train>
+    <name>ne zhdani</name>
+    <number>1</number>
+    <hour>14</hour>
+    <minute>4</minute>
+  </Train>
+  <Train>
+    <name>zhdani</name>
+    <number>7</number>
+    <hour>22</hour>
+    <minute>7</minute>
+  </Train>
+</ArrayOfTrain>

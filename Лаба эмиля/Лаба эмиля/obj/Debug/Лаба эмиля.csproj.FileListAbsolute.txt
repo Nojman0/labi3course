@@ -1,0 +1,7 @@
+c:\users\fasss.desktop-enjev1u\source\repos\Лаба эмиля\Лаба эмиля\bin\Debug\Лаба эмиля.exe.config
+c:\users\fasss.desktop-enjev1u\source\repos\Лаба эмиля\Лаба эмиля\bin\Debug\Лаба эмиля.exe
+c:\users\fasss.desktop-enjev1u\source\repos\Лаба эмиля\Лаба эмиля\bin\Debug\Лаба эмиля.pdb
+c:\users\fasss.desktop-enjev1u\source\repos\Лаба эмиля\Лаба эмиля\obj\Debug\Лаба эмиля.csprojAssemblyReference.cache
+c:\users\fasss.desktop-enjev1u\source\repos\Лаба эмиля\Лаба эмиля\obj\Debug\Лаба эмиля.csproj.CoreCompileInputs.cache
+c:\users\fasss.desktop-enjev1u\source\repos\Лаба эмиля\Лаба эмиля\obj\Debug\Лаба эмиля.exe
+c:\users\fasss.desktop-enjev1u\source\repos\Лаба эмиля\Лаба эмиля\obj\Debug\Лаба эмиля.pdb

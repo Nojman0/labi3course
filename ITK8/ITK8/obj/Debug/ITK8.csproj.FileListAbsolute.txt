@@ -1,0 +1,7 @@
+c:\users\fasss.desktop-enjev1u\source\repos\ITK8\ITK8\bin\Debug\ITK8.exe.config
+c:\users\fasss.desktop-enjev1u\source\repos\ITK8\ITK8\bin\Debug\ITK8.exe
+c:\users\fasss.desktop-enjev1u\source\repos\ITK8\ITK8\bin\Debug\ITK8.pdb
+c:\users\fasss.desktop-enjev1u\source\repos\ITK8\ITK8\obj\Debug\ITK8.csprojAssemblyReference.cache
+c:\users\fasss.desktop-enjev1u\source\repos\ITK8\ITK8\obj\Debug\ITK8.csproj.CoreCompileInputs.cache
+c:\users\fasss.desktop-enjev1u\source\repos\ITK8\ITK8\obj\Debug\ITK8.exe
+c:\users\fasss.desktop-enjev1u\source\repos\ITK8\ITK8\obj\Debug\ITK8.pdb
