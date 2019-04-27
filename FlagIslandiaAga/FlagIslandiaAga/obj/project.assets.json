@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Egpro\\Desktop\\repos\\FlagIslandiaAga\\FlagIslandiaAga\\FlagIslandiaAga.csproj",
+      "projectUniqueName": "C:\\Users\\Egpro\\Source\\Repos\\labi3course\\FlagIslandiaAga\\FlagIslandiaAga\\FlagIslandiaAga.csproj",
       "projectName": "FlagIslandiaAga",
-      "projectPath": "C:\\Users\\Egpro\\Desktop\\repos\\FlagIslandiaAga\\FlagIslandiaAga\\FlagIslandiaAga.csproj",
+      "projectPath": "C:\\Users\\Egpro\\Source\\Repos\\labi3course\\FlagIslandiaAga\\FlagIslandiaAga\\FlagIslandiaAga.csproj",
       "packagesPath": "C:\\Users\\Egpro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Egpro\\Desktop\\repos\\FlagIslandiaAga\\FlagIslandiaAga\\obj\\",
+      "outputPath": "C:\\Users\\Egpro\\Source\\Repos\\labi3course\\FlagIslandiaAga\\FlagIslandiaAga\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

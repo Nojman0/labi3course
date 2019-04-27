@@ -1,0 +1,11 @@
+C:\Users\Egpro\Source\Repos\labi3course\FlagIslandiaAga\FlagIslandiaAga\bin\Debug\netcoreapp2.1\FlagIslandiaAga.deps.json
+C:\Users\Egpro\Source\Repos\labi3course\FlagIslandiaAga\FlagIslandiaAga\bin\Debug\netcoreapp2.1\FlagIslandiaAga.runtimeconfig.json
+C:\Users\Egpro\Source\Repos\labi3course\FlagIslandiaAga\FlagIslandiaAga\bin\Debug\netcoreapp2.1\FlagIslandiaAga.runtimeconfig.dev.json
+C:\Users\Egpro\Source\Repos\labi3course\FlagIslandiaAga\FlagIslandiaAga\bin\Debug\netcoreapp2.1\FlagIslandiaAga.dll
+C:\Users\Egpro\Source\Repos\labi3course\FlagIslandiaAga\FlagIslandiaAga\bin\Debug\netcoreapp2.1\FlagIslandiaAga.pdb
+C:\Users\Egpro\Source\Repos\labi3course\FlagIslandiaAga\FlagIslandiaAga\obj\Debug\netcoreapp2.1\FlagIslandiaAga.csprojAssemblyReference.cache
+C:\Users\Egpro\Source\Repos\labi3course\FlagIslandiaAga\FlagIslandiaAga\obj\Debug\netcoreapp2.1\FlagIslandiaAga.csproj.CoreCompileInputs.cache
+C:\Users\Egpro\Source\Repos\labi3course\FlagIslandiaAga\FlagIslandiaAga\obj\Debug\netcoreapp2.1\FlagIslandiaAga.AssemblyInfoInputs.cache
+C:\Users\Egpro\Source\Repos\labi3course\FlagIslandiaAga\FlagIslandiaAga\obj\Debug\netcoreapp2.1\FlagIslandiaAga.AssemblyInfo.cs
+C:\Users\Egpro\Source\Repos\labi3course\FlagIslandiaAga\FlagIslandiaAga\obj\Debug\netcoreapp2.1\FlagIslandiaAga.dll
+C:\Users\Egpro\Source\Repos\labi3course\FlagIslandiaAga\FlagIslandiaAga\obj\Debug\netcoreapp2.1\FlagIslandiaAga.pdb
