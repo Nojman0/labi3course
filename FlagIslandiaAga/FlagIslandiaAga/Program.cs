@@ -29,8 +29,6 @@ namespace FlagIslandiaAga
                         Console.BackgroundColor = ConsoleColor.DarkBlue;
                         Console.ForegroundColor = ConsoleColor.DarkBlue;
                     }
-                    // Console.Write('\u25a0');//"⬛");
-                    Console.Write("#");
                 }
                 Console.WriteLine();
             }
