@@ -12,7 +12,7 @@ namespace FlagIslandiaAga
 
             for (double i = 0; i < 10; i = i + 0.5)
             {
-                for (double j = 0; j < 40; j += 0.5) 
+                for (double j = 0; j < 35; j += 0.5) 
                 {
                     if ((i > 3 && i < 6.5) || (j > 6.5 && j < 13))
                     {
@@ -29,6 +29,7 @@ namespace FlagIslandiaAga
                         Console.BackgroundColor = ConsoleColor.DarkBlue;
                         Console.ForegroundColor = ConsoleColor.DarkBlue;
                     }
+                    Console.Write("Ф");
                 }
                 Console.WriteLine();
             }
