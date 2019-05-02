@@ -1,8 +1,19 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.60.6" />
+    <PackageReference Include="MySql.Data" Version="8.0.16" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="gavno">
+      <HintPath>D:\code\trpo\dd\gavno.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 
 </Project>

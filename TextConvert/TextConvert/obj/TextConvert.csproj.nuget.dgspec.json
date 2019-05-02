@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EGPR\\source\\repos\\database\\TextConvert\\TextConvert\\TextConvert.csproj": {}
+    "C:\\Users\\EGPR\\source\\repos\\labi3course\\TextConvert\\TextConvert\\TextConvert.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EGPR\\source\\repos\\database\\TextConvert\\TextConvert\\TextConvert.csproj": {
+    "C:\\Users\\EGPR\\source\\repos\\labi3course\\TextConvert\\TextConvert\\TextConvert.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EGPR\\source\\repos\\database\\TextConvert\\TextConvert\\TextConvert.csproj",
+        "projectUniqueName": "C:\\Users\\EGPR\\source\\repos\\labi3course\\TextConvert\\TextConvert\\TextConvert.csproj",
         "projectName": "TextConvert",
-        "projectPath": "C:\\Users\\EGPR\\source\\repos\\database\\TextConvert\\TextConvert\\TextConvert.csproj",
+        "projectPath": "C:\\Users\\EGPR\\source\\repos\\labi3course\\TextConvert\\TextConvert\\TextConvert.csproj",
         "packagesPath": "C:\\Users\\EGPR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EGPR\\source\\repos\\database\\TextConvert\\TextConvert\\obj\\",
+        "outputPath": "C:\\Users\\EGPR\\source\\repos\\labi3course\\TextConvert\\TextConvert\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,10 +41,18 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.60.6, )"
+            },
             "Microsoft.NETCore.App": {
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.16, )"
             }
           },
           "imports": [
