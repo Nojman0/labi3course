@@ -12,7 +12,11 @@ namespace FlagIslandiaAga
 
             for (double i = 0; i < 10; i = i + 0.5)
             {
+<<<<<<< HEAD
                 for (double j = 0; j < 35; j += 0.5)
+=======
+                for (double j = 0; j < 35; j += 0.5) 
+>>>>>>> af489e4a5d1f3bf3210994a1a17845ec353ca9bb
                 {
                     if ((i > 3 && i < 6.5) || (j > 6.5 && j < 13))
                     {

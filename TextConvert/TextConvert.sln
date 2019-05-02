@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextConvert", "TextConvert\TextConvert.csproj", "{A666A817-6709-454F-9E51-289F177A4974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A666A817-6709-454F-9E51-289F177A4974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A666A817-6709-454F-9E51-289F177A4974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A666A817-6709-454F-9E51-289F177A4974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A666A817-6709-454F-9E51-289F177A4974}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6DE952B-8620-4F70-873F-E8887258B638}
+	EndGlobalSection
+EndGlobal
