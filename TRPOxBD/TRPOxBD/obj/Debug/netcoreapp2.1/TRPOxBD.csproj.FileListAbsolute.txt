@@ -1,0 +1,11 @@
+C:\Users\EGPR\source\repos\labi3course\TRPOxBD\TRPOxBD\bin\Debug\netcoreapp2.1\TRPOxBD.deps.json
+C:\Users\EGPR\source\repos\labi3course\TRPOxBD\TRPOxBD\bin\Debug\netcoreapp2.1\TRPOxBD.runtimeconfig.json
+C:\Users\EGPR\source\repos\labi3course\TRPOxBD\TRPOxBD\bin\Debug\netcoreapp2.1\TRPOxBD.runtimeconfig.dev.json
+C:\Users\EGPR\source\repos\labi3course\TRPOxBD\TRPOxBD\bin\Debug\netcoreapp2.1\TRPOxBD.dll
+C:\Users\EGPR\source\repos\labi3course\TRPOxBD\TRPOxBD\obj\Debug\netcoreapp2.1\TRPOxBD.csprojAssemblyReference.cache
+C:\Users\EGPR\source\repos\labi3course\TRPOxBD\TRPOxBD\obj\Debug\netcoreapp2.1\TRPOxBD.csproj.CoreCompileInputs.cache
+C:\Users\EGPR\source\repos\labi3course\TRPOxBD\TRPOxBD\obj\Debug\netcoreapp2.1\TRPOxBD.AssemblyInfoInputs.cache
+C:\Users\EGPR\source\repos\labi3course\TRPOxBD\TRPOxBD\obj\Debug\netcoreapp2.1\TRPOxBD.AssemblyInfo.cs
+C:\Users\EGPR\source\repos\labi3course\TRPOxBD\TRPOxBD\bin\Debug\netcoreapp2.1\TRPOxBD.pdb
+C:\Users\EGPR\source\repos\labi3course\TRPOxBD\TRPOxBD\obj\Debug\netcoreapp2.1\TRPOxBD.dll
+C:\Users\EGPR\source\repos\labi3course\TRPOxBD\TRPOxBD\obj\Debug\netcoreapp2.1\TRPOxBD.pdb
