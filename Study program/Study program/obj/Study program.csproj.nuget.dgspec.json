@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EGPR\\source\\repos\\Study program\\Study program\\Study program.csproj": {}
+    "C:\\Users\\EGPR\\source\\repos\\labi3course\\Study program\\Study program\\Study program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EGPR\\source\\repos\\Study program\\Study program\\Study program.csproj": {
+    "C:\\Users\\EGPR\\source\\repos\\labi3course\\Study program\\Study program\\Study program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EGPR\\source\\repos\\Study program\\Study program\\Study program.csproj",
+        "projectUniqueName": "C:\\Users\\EGPR\\source\\repos\\labi3course\\Study program\\Study program\\Study program.csproj",
         "projectName": "Study program",
-        "projectPath": "C:\\Users\\EGPR\\source\\repos\\Study program\\Study program\\Study program.csproj",
+        "projectPath": "C:\\Users\\EGPR\\source\\repos\\labi3course\\Study program\\Study program\\Study program.csproj",
         "packagesPath": "C:\\Users\\EGPR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EGPR\\source\\repos\\Study program\\Study program\\obj\\",
+        "outputPath": "C:\\Users\\EGPR\\source\\repos\\labi3course\\Study program\\Study program\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

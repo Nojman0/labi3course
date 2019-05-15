@@ -2087,23 +2087,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Egpro\\.nuget\\packages\\": {},
+    "C:\\Users\\EGPR\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Egpro\\source\\repos\\labi3course\\TextConvert\\TextConvert\\TextConvert.csproj",
+      "projectUniqueName": "C:\\Users\\EGPR\\source\\repos\\labi3course\\TextConvert\\TextConvert\\TextConvert.csproj",
       "projectName": "TextConvert",
-      "projectPath": "C:\\Users\\Egpro\\source\\repos\\labi3course\\TextConvert\\TextConvert\\TextConvert.csproj",
-      "packagesPath": "C:\\Users\\Egpro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Egpro\\source\\repos\\labi3course\\TextConvert\\TextConvert\\obj\\",
+      "projectPath": "C:\\Users\\EGPR\\source\\repos\\labi3course\\TextConvert\\TextConvert\\TextConvert.csproj",
+      "packagesPath": "C:\\Users\\EGPR\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\EGPR\\source\\repos\\labi3course\\TextConvert\\TextConvert\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Egpro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\EGPR\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
