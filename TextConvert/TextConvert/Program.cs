@@ -105,7 +105,7 @@ namespace TextConvert
                 int temp = 0;
                 int temp1 = 0;
                 int []mas = { 50, 100, 25 };
-                for (int i = 0; i < 100; i++) 
+                for (int i = 0; i < 500; i++) 
                 {
                     temp1 = rand.Next(1, 4);
                     temp = rand.Next(1, 5);
