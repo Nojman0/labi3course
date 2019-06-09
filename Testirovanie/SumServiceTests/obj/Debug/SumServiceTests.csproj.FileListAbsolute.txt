@@ -1,0 +1,12 @@
+C:\Users\EGPR\source\repos\labi3course\Testirovanie\SumServiceTests\bin\Debug\SumServiceTests.dll
+C:\Users\EGPR\source\repos\labi3course\Testirovanie\SumServiceTests\bin\Debug\SumServiceTests.pdb
+C:\Users\EGPR\source\repos\labi3course\Testirovanie\SumServiceTests\bin\Debug\nunit.framework.dll
+C:\Users\EGPR\source\repos\labi3course\Testirovanie\SumServiceTests\bin\Debug\Testirovanie.dll
+C:\Users\EGPR\source\repos\labi3course\Testirovanie\SumServiceTests\bin\Debug\nunit.framework.pdb
+C:\Users\EGPR\source\repos\labi3course\Testirovanie\SumServiceTests\bin\Debug\nunit.framework.xml
+C:\Users\EGPR\source\repos\labi3course\Testirovanie\SumServiceTests\bin\Debug\Testirovanie.pdb
+C:\Users\EGPR\source\repos\labi3course\Testirovanie\SumServiceTests\obj\Debug\SumServiceTests.csprojAssemblyReference.cache
+C:\Users\EGPR\source\repos\labi3course\Testirovanie\SumServiceTests\obj\Debug\SumServiceTests.csproj.CoreCompileInputs.cache
+C:\Users\EGPR\source\repos\labi3course\Testirovanie\SumServiceTests\obj\Debug\SumServiceTests.csproj.CopyComplete
+C:\Users\EGPR\source\repos\labi3course\Testirovanie\SumServiceTests\obj\Debug\SumServiceTests.dll
+C:\Users\EGPR\source\repos\labi3course\Testirovanie\SumServiceTests\obj\Debug\SumServiceTests.pdb

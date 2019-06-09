@@ -1,0 +1,6 @@
+C:\Users\EGPR\source\repos\labi3course\Testirovanie\Testirovanie\bin\Debug\Testirovanie.dll
+C:\Users\EGPR\source\repos\labi3course\Testirovanie\Testirovanie\bin\Debug\Testirovanie.pdb
+C:\Users\EGPR\source\repos\labi3course\Testirovanie\Testirovanie\obj\Debug\Testirovanie.csprojAssemblyReference.cache
+C:\Users\EGPR\source\repos\labi3course\Testirovanie\Testirovanie\obj\Debug\Testirovanie.csproj.CoreCompileInputs.cache
+C:\Users\EGPR\source\repos\labi3course\Testirovanie\Testirovanie\obj\Debug\Testirovanie.dll
+C:\Users\EGPR\source\repos\labi3course\Testirovanie\Testirovanie\obj\Debug\Testirovanie.pdb
